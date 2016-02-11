@@ -1,0 +1,33 @@
+_repo: The-Sea-Fairies_48778
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2015-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Sea Fairies
+url: http://www.gutenberg.org/ebooks/48778
